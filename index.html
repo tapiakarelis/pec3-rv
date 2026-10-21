@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>De la costa a la ciudad - Karelis Tapia</title>
+    <link rel="stylesheet" href="recursos/estilos.css">
+  </head>
+  <body>
+    <main>
+      <header>
+        <p class="asignatura">Realidad virtual · Karelis Tapia</p>
+        <h1>De la costa a la ciudad</h1>
+        <p>En esta práctica he creado dos escenas panorámicas con A-Frame. La primera utiliza una imagen fija de una costa al atardecer y la segunda muestra un vídeo 360º grabado sobre la ciudad de Las Vegas.</p>
+        <p>En las dos escenas se puede arrastrar el ratón para mirar alrededor. También se pueden abrir a pantalla completa desde los enlaces.</p>
+      </header>
+
+      <section>
+        <div class="texto">
+          <p class="numero">Escena 1</p>
+          <h2>Atardecer en la costa</h2>
+          <p>Esta escena utiliza el tag <code>a-sky</code> para colocar una fotografía equirectangular en el fondo.</p>
+          <a href="recursos/costa.html">Abrir escena de imagen</a>
+        </div>
+        <iframe src="recursos/costa.html" title="Panorámica 360 de una costa al atardecer" allow="fullscreen; xr-spatial-tracking" allowfullscreen></iframe>
+      </section>
+
+      <section>
+        <div class="texto">
+          <p class="numero">Escena 2</p>
+          <h2>Vuelo sobre la ciudad</h2>
+          <p>Esta escena utiliza el tag <code>a-videosphere</code> para reproducir un vídeo 360º en formato MP4.</p>
+          <a href="recursos/ciudad.html">Abrir escena de vídeo</a>
+        </div>
+        <iframe src="recursos/ciudad.html" title="Vídeo 360 sobre Las Vegas" allow="autoplay; fullscreen; xr-spatial-tracking" allowfullscreen></iframe>
+      </section>
+
+      <footer>
+        <p>Los recursos utilizados y sus licencias están detallados en <a href="FUENTES_Y_LICENCIAS.txt">FUENTES_Y_LICENCIAS.txt</a>.</p>
+      </footer>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.ayuda {
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  z-index: 2;
+  display: flex;
+  max-width: 360px;
+  flex-direction: column;
+  gap: 5px;
+  padding: 12px 14px;
+  border-radius: 5px;
+  background: rgba(255, 255, 255, 0.9);
+  color: #26332f;
+  font-size: 13px;
+}
+
+.ayuda a {
+  color: #286654;
+}

@@ -1,0 +1,39 @@
+FUENTES Y LICENCIAS
+De la costa a la ciudad - Karelis Tapia
+
+1. IMAGEN PANORÁMICA
+
+Título: Sundowner Overlook
+Autor: Dario Barresi
+Fuente: Poly Haven
+Página del recurso: https://polyhaven.com/a/sundowner_overlook
+Copia optimizada del archivo original: originales/sundowner_overlook_original.jpg
+Licencia: Creative Commons Zero 1.0 Universal (CC0)
+Licencia: https://creativecommons.org/publicdomain/zero/1.0/
+
+La copia incluida en la carpeta originales conserva las dimensiones del recurso descargado y se ha vuelto a guardar como JPEG para ajustarla al límite de subida de GitHub. El archivo recursos/costa360.jpg es una copia reducida a 4096 x 2048 píxeles. En ambos casos se ha mantenido la proporción equirectangular 2:1.
+
+2. VÍDEO PANORÁMICO
+
+Título: Matrice 600 drone with 360 Camera over the Vegas strip by Don Ramey Logan.webm
+Autor: Don Ramey Logan
+Fuente: Wikimedia Commons
+Página del recurso: https://commons.wikimedia.org/wiki/File:Matrice_600_drone_with_360_Camera_over_the_Vegas_strip_by_Don_Ramey_Logan.webm
+Archivo original: originales/vegas_360_original.webm
+Licencia: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Licencia: https://creativecommons.org/licenses/by-sa/4.0/
+
+El archivo recursos/ciudad360.mp4 es una adaptación del original. Se ha recortado ligeramente la parte superior e inferior para obtener una proporción equirectangular 2:1, se ha reducido a 1920 x 960 píxeles y se ha convertido de WebM/VP9 a MP4/H.264 sin audio. No se ha modificado la duración. Esta adaptación se distribuye bajo la misma licencia CC BY-SA 4.0.
+
+3. BIBLIOTECA
+
+Nombre: A-Frame 1.7.0
+Autor: A-Frame contributors
+Fuente: https://aframe.io/
+Código fuente: https://github.com/aframevr/aframe
+Licencia: MIT
+
+4. CÓDIGO DEL PROYECTO
+
+Los archivos HTML y CSS se han creado para esta práctica siguiendo el tutorial de panorámicas 360º con A-Frame facilitado en el aula.
+
